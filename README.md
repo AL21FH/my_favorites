@@ -1,7 +1,7 @@
 ## my Top 5 Animals
 
-1. Honigdachs
-1. Katze
-1. Reh
-1. Hund
-1. Fuchs
+1. Honey Badger
+1. Cat
+1. Deer
+1. Dog
+1. Fox
